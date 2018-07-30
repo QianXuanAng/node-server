@@ -1,1 +1,3 @@
-# node-server
+静态服务器
+默认页面为sample静态目录下index.html
+支持静态目录下路由解析
